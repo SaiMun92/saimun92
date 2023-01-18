@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-How many stalkers I Have
-
 ![](https://komarev.com/ghpvc/?username=SaiMun92&color=brightgreen&style=for-the-badge)
 
 - 🔭 I’m currently working on building https://www.saimunlee.com
