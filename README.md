@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+How many stalkers I Have
+![](https://komarev.com/ghpvc/?username=SaiMun92&color=brightgreen&style=for-the-badge)
+
+- 🔭 I’m currently working on building https://www.saimunlee.com
+- 🌱 I’m currently learning Terraform
+- 💬 Ask me about work!
+- 📫 How to reach me: saimun92@icloud.com
+- ⚡ Fun fact: Super curious about everything!
+
 <!--
 **SaiMun92/saimun92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
