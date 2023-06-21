@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=SaiMun92&color=brightgreen&style=for-the-badge)
 
 - 🔭 I’m currently working on building https://www.saimunlee.com
-- 🌱 I’m currently learning Terraform
+- 🌱 I’m currently learning Tensorflow, MLOps, NLP, Next.Js, Kubernetes & Korean!
 - 💬 Ask me about work!
 - 📫 How to reach me: saimun92@icloud.com
 - ⚡ Fun fact: Super curious about everything!
