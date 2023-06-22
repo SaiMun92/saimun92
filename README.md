@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on building https://www.saimunlee.com
 - 🌱 I’m currently learning Tensorflow, MLOps, NLP, Next.Js, Kubernetes & Korean!
-- 💬 Ask me about work!
+- 💬 Thinking what shall I build next!
 - 📫 How to reach me: saimun92@icloud.com
 - ⚡ Fun fact: Super curious about everything!
 
